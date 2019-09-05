@@ -1,4 +1,4 @@
-package store
+package sqlstore
 
 import "github.com/fremdev/go-rest-api/internal/app/model"
 
